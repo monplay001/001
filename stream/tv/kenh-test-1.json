@@ -1,8 +1,8 @@
 {
   "streams": [
     {
-      "url": "https://sm-vn.vercel.app/api/m?p=aHR0cHM6Ly9lbWJlZDEzLnN0cmVhbWMueHl6L2V5Sm9Jam9pTlRJMVlqWmtOV1U0Wm1VM09ETTVPVEEyTmpJNE5HVTBNek0yWXpGaU1XVWlMQ0owSWpvaVl6Z3hZelF3T1RVMVlqUTRZVE14TURFeE0yWTFZVGN5TkRaak1ESm1ZMll3WkdKaFlUSTFOMk5qTjJKak5UZ3pPVGxqTTJNM05UYzRPR0UzWlRaak5DSjkubTN1OHxodHRwczovL2VtYmVkMTMuc3RyZWFtYy54eXov",
-      "name": "Kênh test 1 f",
+      "url": "https://sm-vn.vercel.app/api/m3u8?p=aHR0cHM6Ly9lbWJlZDEzLnN0cmVhbWMueHl6L2V5Sm9Jam9pTlRJMVlqWmtOV1U0Wm1VM09ETTVPVEEyTmpJNE5HVTBNek0yWXpGaU1XVWlMQ0owSWpvaVl6Z3hZelF3T1RVMVlqUTRZVE14TURFeE0yWTFZVGN5TkRaak1ESm1ZMll3WkdKaFlUSTFOMk5qTjJKak5UZ3pPVGxqTTJNM05UYzRPR0UzWlRaak5DSjkubTN1OHxodHRwczovL2VtYmVkMTMuc3RyZWFtYy54eXov",
+      "name": "Kênh test 1 fx",
       "description": "Đây là link test f",
       "behaviorHints": {
         "notWebReady": true
