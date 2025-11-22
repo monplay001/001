@@ -4,6 +4,7 @@
       "url": "https://cdn.idoyu.com/?id=14092025_playlist_7d5547d7-005f-46f9-9dd4-e883759f1c4d&s_type=stream",
       "name": "Kênh test 2",
       "description": "Đây là link test 2",
+      "subtitles": [ { "lang": "vi", "url": "https://m-center.onflixcdn.pics/content/14092025/3c89d101-92f8-4300-a5da-88ddcc32c25e.vtt" } ],
       "behaviorHints": {
         "notWebReady": true
       }
