@@ -1,0 +1,26 @@
+{
+  "id": "org.vn.test",
+  "version": "1.0.0",
+  "name": "001 Addon",
+  "description": "Addon 001",
+  "logo": "https://monplayer.org/images/logo.png",
+  "background": "https://www.stremio.com/website/posters-perspective-home.png",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "tv"
+  ],
+  "behaviorHints": {
+    "newEpisodeNotifications": true
+  },
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "all",
+      "name": "Test"
+    }
+  ]
+}
