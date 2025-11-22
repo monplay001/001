@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "id": "kenh-test-1.json",
+    "type": "tv",
+    "name": "Kênh test 1",
+    "logo": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg",
+    "poster": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg",
+    "description": "Kênh test 1"
+  }
+}
