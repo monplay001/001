@@ -1,10 +1,10 @@
 {
   "id": "org.vn.test",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "name": "001 Addon",
   "description": "Addon 001",
-  "logo": "https://monplayer.org/images/logo.png",
-  "background": "https://www.stremio.com/website/posters-perspective-home.png",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png",
+  "background": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png",
   "resources": [
     "catalog",
     "meta",
