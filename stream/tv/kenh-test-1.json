@@ -1,16 +1,16 @@
 {
   "streams": [
     {
-      "url": "http://otokeok.dpdns.org/prx?p=aHR0cHM6Ly9lbWJlZDEzLnN0cmVhbWMueHl6L2V5Sm9Jam9pTlRJMVlqWmtOV1U0Wm1VM09ETTVPVEEyTmpJNE5HVTBNek0yWXpGaU1XVWlMQ0owSWpvaVl6Z3hZelF3T1RVMVlqUTRZVE14TURFeE0yWTFZVGN5TkRaak1ESm1ZMll3WkdKaFlUSTFOMk5qTjJKak5UZ3pPVGxqTTJNM05UYzRPR0UzWlRaak5DSjkubTN1OHxodHRwczovL2VtYmVkMTMuc3RyZWFtYy54eXov",
-      "name": "Kênh test 1 prx",
+      "url": "https://otokeok.dpdns.org/prx?p=aHR0cHM6Ly9lbWJlZDEzLnN0cmVhbWMueHl6L2V5Sm9Jam9pTlRJMVlqWmtOV1U0Wm1VM09ETTVPVEEyTmpJNE5HVTBNek0yWXpGaU1XVWlMQ0owSWpvaVl6Z3hZelF3T1RVMVlqUTRZVE14TURFeE0yWTFZVGN5TkRaak1ESm1ZMll3WkdKaFlUSTFOMk5qTjJKak5UZ3pPVGxqTTJNM05UYzRPR0UzWlRaak5DSjkubTN1OHxodHRwczovL2VtYmVkMTMuc3RyZWFtYy54eXov",
+      "name": "Kênh test 1 prx1",
       "description": "Đây là link test f",
       "behaviorHints": {
         "notWebReady": true
       }
     },
     {
-      "url": "https://raw.githubusercontent.com/monplay001/001/refs/heads/main/2.m3u8",
-      "name": "Kênh test 2",
+      "url": "https://otokeok.dpdns.org/bonhoao/2.m3u8",
+      "name": "Kênh test 2 oto",
       "description": "Đây là link test 2",
       "behaviorHints": {
         "notWebReady": true
