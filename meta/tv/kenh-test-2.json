@@ -1,1 +1,10 @@
-a
+{
+  "meta": {
+    "id": "kenh-test-2",
+    "type": "tv",
+    "name": "Kênh test 2",
+    "logo": "https://p3-sg.tiktokcdn.com/obj/tiktok-obj/8b2f8e332dbe440e30c8ed5697e08aa8",
+    "poster": "https://p3-sg.tiktokcdn.com/obj/tiktok-obj/3cb0cf1c67436521be056e33a262f02c",
+    "description": "Kênh test 2"
+  }
+}
