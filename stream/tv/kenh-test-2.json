@@ -6,6 +6,7 @@
       "description": "Đây là link test 2",
       "subtitles": [
         {
+          "id": "id1",
           "lang": "vie",
           "lang_code": "vi",
           "title": "Viet sub",
