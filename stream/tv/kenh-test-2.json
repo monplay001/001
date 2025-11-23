@@ -5,15 +5,12 @@
       "name": "Kênh test 2",
       "description": "Đây là link test 2",
       "subtitles": [
-        {
-      "id": "13375383",
-      "url": "https://m-center.onflixcdn.pics/content/14092025/3c89d101-92f8-4300-a5da-88ddcc32c25e.vtt",
-      "SubEncoding": "UTF-8",
-      "lang": "vie",
-      "m": "i",
-      "g": "4"
-    }
-  ],
+          {
+          "url": "https://m-center.onflixcdn.pics/content/14092025/3c89d101-92f8-4300-a5da-88ddcc32c25e.vtt",
+          "SubEncoding": "UTF-8",
+          "lang": "vie"
+          }
+        ],
       "behaviorHints": {
         "notWebReady": true
       }
