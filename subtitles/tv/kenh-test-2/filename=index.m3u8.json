@@ -1,0 +1,12 @@
+{
+  "subtitles": [
+        {
+          "id": "id1",
+          "lang": "vie",
+          "lang_code": "vi",
+          "title": "Viet sub",
+          "SubEncoding": "UTF-8",
+          "url": "https://m-center.onflixcdn.pics/content/14092025/3c89d101-92f8-4300-a5da-88ddcc32c25e.vtt"
+        }
+      ]
+}
