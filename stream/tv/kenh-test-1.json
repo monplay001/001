@@ -1,9 +1,9 @@
 {
   "streams": [
     {
-      "url": "https://cdn-live.vtv.vn/HaMEnPamJDMrVNkcu1KmNQ/1763904621/live/vtv9/vtv9-720p.m3u8",
-      "name": "Kênh test User",
-      "description": "Đây là link User",
+      "url": "https://cdn-live.vtv.vn/Rj7WxCdme1LxxThd0bdUQw/1763911101/live/vtv9/master.m3u8",
+      "name": "Kênh test User m",
+      "description": "Đây là link User m",
       "behaviorHints": {
         "notWebReady": true,
         "proxyHeaders": {
