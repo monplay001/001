@@ -1,9 +1,9 @@
 {
   "streams": [
     {
-      "url": "https://cloud.sgchill.io.vn/tv/getlink/source/coban1/index.m3u8?id=8&token=2025",
-      "name": "Kênh test 1 sgchill",
-      "description": "Đây là link v9",
+      "url": "https://raw.githubusercontent.com/monplay001/001/refs/heads/main/1.m3u8",
+      "name": "Kênh test m",
+      "description": "Đây là link m",
       "behaviorHints": {
         "notWebReady": true
       }
