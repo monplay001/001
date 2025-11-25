@@ -14,8 +14,8 @@
         }
     },
     {
-      "url": "https://vgo.ononemoreokaz.workers.dev/?v=vtv9.m3u8",
-      "name": "Kênh test User vtv9 g",
+      "url": "https://vgo.ononemoreokaz.workers.dev/vtv9.m3u8",
+      "name": "Kênh test User vtv9 gx",
       "description": "Đây là link User vtv9",
       "behaviorHints": {
         "notWebReady": true
