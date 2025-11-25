@@ -2,8 +2,8 @@
   "streams": [
     {
       "url": "https://cdn.idoyu.com/?id=14092025_playlist_7d5547d7-005f-46f9-9dd4-e883759f1c4d&s_type=stream",
-      "name": "Kênh test 2",
-      "description": "Đây là link test 2",
+      "name": "Kênh test idoyu",
+      "description": "Đây là link test idoyu",
       "subtitles": [
         {
           "id": "sub1",
@@ -13,7 +13,14 @@
         }
       ],
       "behaviorHints": {
-        "notWebReady": true
+        "notWebReady": true,
+        "proxyHeaders": {
+          "request": {
+            "Referer": "https://onflixstream.site/",
+            "Origin": "https://onflixstream.site",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        }
       }
     }
   ]
