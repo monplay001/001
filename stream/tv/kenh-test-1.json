@@ -1,9 +1,9 @@
 {
   "streams": [
     {
-      "url": "https://cdn.idoyu.com/?id=14092025_playlist_7d5547d7-005f-46f9-9dd4-e883759f1c4d&s_type=stream",
-      "name": "Kênh test User nn",
-      "description": "Đây là link User nn"
+      "url": "https://raw.githubusercontent.com/monplay001/001/refs/heads/main/2.m3u8",
+      "name": "Kênh test User dn",
+      "description": "Đây là link User dn"
     },
     {
       "url": "http://cdn.idoyu.com/?id=14092025_playlist_7d5547d7-005f-46f9-9dd4-e883759f1c4d&s_type=stream",
