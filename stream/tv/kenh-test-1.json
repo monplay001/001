@@ -1,11 +1,16 @@
 {
   "streams": [
     {
-      "url": "https://raw.githubusercontent.com/monplay001/001/refs/heads/main/2.m3u8",
-      "name": "Kênh test png",
+      "url": "https://raw.githubusercontent.com/monplay001/001/refs/heads/main/1.m3u8",
+      "name": "Kênh test streamc",
       "description": "Đây là link User dn",
       "behaviorHints": {
-        "notWebReady": true
+        "notWebReady": true,
+        "proxyHeaders": {
+          "request": {
+            "Referer": "https://embed.streamc.xyz/"
+          }
+        }
         }
     },
     {
