@@ -5,7 +5,7 @@
       "name": "Kênh test ref",
       "description": "Đây là link User dn",
       "behaviorHints": {
-        "notWebReady": True,
+        "notWebReady": true,
         "proxyHeaders": {
           "request": {
             "Referer": "https://vtv.vn/",
