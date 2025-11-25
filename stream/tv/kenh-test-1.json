@@ -6,9 +6,12 @@
       "description": "Đây là link User dn"
     },
     {
-      "url": "http://cdn.idoyu.com/?id=14092025_playlist_7d5547d7-005f-46f9-9dd4-e883759f1c4d&s_type=stream",
+      "url": "https://cdn-live.vtv.vn/vNPolCb7IhCngQtB3fRiRg/1764047181/live/vtv9/master.m3u8",
       "name": "Kênh test User n2",
-      "description": "Đây là link User n2"
+      "description": "Đây là link User n2",
+      "behaviorHints": {
+        "notWebReady": true
+      }
     }
   ]
 }
