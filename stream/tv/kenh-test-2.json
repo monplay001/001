@@ -1,13 +1,13 @@
 {
   "streams": [
     {
-      "url": "https://sm-vn.vercel.app/aHR0cHM6Ly9jZG4uaWRveXUuY29tLz9pZD0xNDA5MjAyNV9wbGF5bGlzdF83ZDU1NDdkNy0wMDVmLTQ2ZjktOWRkNC1lODgzNzU5ZjFjNGQmc190eXBlPXN0cmVhbQ%3D%3D.m3u8",
-      "name": "Kênh test SM",
+      "url": "https://sm-vn.vercel.app/aHR0cHM6Ly9jZG4uaWRveXUuY29tLz9pZD0wOTExMjAyNV9wbGF5bGlzdF81ZDY4MzAxMC0zMmI0LTRjODctOGFkNy1lOTk2NjU0MjFmYTAmc190eXBlPWljZG4%3D.m3u8",
+      "name": "Kênh test tap1",
       "description": "Đây là link test idoyu",
       "subtitles": [
         {
           "id": "sub1",
-          "url": "https://m-center.onflixcdn.pics/content/14092025/3c89d101-92f8-4300-a5da-88ddcc32c25e.vtt",
+          "url": "https://m-center.onflixcdn.pics/content/09112025/66cff3b0-219d-4467-9cab-785edd051c93.vtt",
           "SubEncoding": "UTF-8",
           "lang": "vie"
         }
