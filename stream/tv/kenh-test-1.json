@@ -1,9 +1,19 @@
 {
   "streams": [
     {
-      "url": "http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fcdn-live.vtv.vn%2FvNPolCb7IhCngQtB3fRiRg%2F1764047181%2Flive%2Fvtv9%2Fmaster.m3u8&h=referer:https%3A%2F%2Fvtv.vn",
-      "name": "Kênh test proxy",
-      "description": "Đây là link User dn"
+      "url": "https://cdn-live.vtv.vn/vNPolCb7IhCngQtB3fRiRg/1764047181/live/vtv9/master.m3u8",
+      "name": "Kênh test ref",
+      "description": "Đây là link User dn",
+      "behaviorHints": {
+        "notWebReady": True,
+        "proxyHeaders": {
+          "request": {
+            "Referer": "https://vtv.vn/",
+            "Origin": "https://vtv.vn",
+            "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+          }
+        }
+      }
     },
     {
       "url": "https://cdn-live.vtv.vn/vNPolCb7IhCngQtB3fRiRg/1764047181/live/vtv9/master.m3u8",
