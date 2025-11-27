@@ -1,15 +1,15 @@
 {
   "streams": [
     {
-      "url": "https://raw.githubusercontent.com/monplay001/001/refs/heads/main/1.m3u8",
-      "name": "Kênh test streamc US",
-      "description": "Đây là link User dn",
+      "url": "https://embed.streamc.xyz/eyJoIjoiMTQwZjljNDE2YTg0YWYxYjJmMWYyYjQ4Mzg2NGE2YTIiLCJ0IjoiMDNmYWUzMTE4YjNhZWMwNDhjNDU1NzI5NzYyNzNiODZmYTk3ODdjNTFjMmNlYzcyZWIyMDNlNWFlODRiY2UyNCJ9.m3u8",
+      "name": "Kênh test streamc embed.streamc.xyz",
+      "description": "Đây là embed.streamc.xyz",
       "behaviorHints": {
         "notWebReady": true,
         "proxyHeaders": {
           "request": {
-            "Referer": "https://embed.streamc.xyz/",
-            "User-Agent": "Mozilla/5.0 (SMART-TV; LINUX; Tizen 9.0) AppleWebKit/537.36 (KHTML, like Gecko) 120.0.6099.5/9.0 TV Safari/537.36"
+            "Referer": "https://embed.streamc.xyz/embed.php?hash=140f9c416a84af1b2f1f2b483864a6a2",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
           }
         }
         }
