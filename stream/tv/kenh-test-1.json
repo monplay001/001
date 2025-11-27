@@ -33,6 +33,11 @@
       "behaviorHints": {
         "notWebReady": true
       }
+    },
+    {
+      "url": "http://127.0.0.1:11470/proxy/d=https%3A%2F%2Fhotlivezz179266008.akainu.xyz&h=Referer%3Ahttps%3A%2F%2Fm10.ldplayer.xyz%2F/0j2VbPY7lCfPPduxAWCIJg/Fv2lucGIbhPi2caWYvF5Lg/1764262086719/live/thuongHD/playlist.m3u8",
+      "name": "Kênh test User proxy",
+      "description": "Đây là link User wo"
     }
   ]
 }
