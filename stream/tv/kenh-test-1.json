@@ -10,10 +10,10 @@
           "request": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
             "Accept": "*/*",
-            "Referer": "https://embed.streamc.xyz/embed.php?hash=140f9c416a84af1b2f1f2b483864a6a2",
+            "Referer": "https://embed.streamc.xyz/",
+            "Origin": "https://embed.streamc.xyz",
             "Accept-Language": "vi",
-            "Accept-Encoding": "gzip, deflate, br, zstd",
-            "Cookie": "_cc_id=be575864906ae22700b0f07e2dd1ee00"
+            "Accept-Encoding": "gzip, deflate, br, zstd"
           }
         }
       }
