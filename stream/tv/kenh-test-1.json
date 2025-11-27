@@ -1,7 +1,7 @@
 {
   "streams": [
     {
-      "url": "https://embed.streamc.xyz/eyJoIjoiMTQwZjljNDE2YTg0YWYxYjJmMWYyYjQ4Mzg2NGE2YTIiLCJ0IjoiMDNmYWUzMTE4YjNhZWMwNDhjNDU1NzI5NzYyNzNiODZmYTk3ODdjNTFjMmNlYzcyZWIyMDNlNWFlODRiY2UyNCJ9.m3u8",
+      "url": "https://github.com/monplay001/001/raw/refs/heads/main/1.m3u8",
       "name": "Kênh test streamc embed",
       "description": "Đây là embed",
       "behaviorHints": {
