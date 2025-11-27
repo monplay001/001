@@ -2,17 +2,21 @@
   "streams": [
     {
       "url": "https://embed.streamc.xyz/eyJoIjoiMTQwZjljNDE2YTg0YWYxYjJmMWYyYjQ4Mzg2NGE2YTIiLCJ0IjoiMDNmYWUzMTE4YjNhZWMwNDhjNDU1NzI5NzYyNzNiODZmYTk3ODdjNTFjMmNlYzcyZWIyMDNlNWFlODRiY2UyNCJ9.m3u8",
-      "name": "Kênh test streamc embed.streamc.xyz",
-      "description": "Đây là embed.streamc.xyz",
+      "name": "Kênh test streamc embed",
+      "description": "Đây là embed",
       "behaviorHints": {
         "notWebReady": true,
         "proxyHeaders": {
           "request": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0",
+            "Accept": "*/*",
             "Referer": "https://embed.streamc.xyz/embed.php?hash=140f9c416a84af1b2f1f2b483864a6a2",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0"
+            "Accept-Language": "vi",
+            "Accept-Encoding": "gzip, deflate, br, zstd",
+            "Cookie": "_cc_id=be575864906ae22700b0f07e2dd1ee00"
           }
         }
-        }
+      }
     },
     {
       "url": "https://cmcdp3.vtvdigital.vn/hls/VTV9_HD/index.m3u8",
