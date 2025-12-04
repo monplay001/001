@@ -9,8 +9,7 @@
         "proxyHeaders": {
           "request": {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
-            "Referer": "https://embed14.streamc.xyz/embed.php?hash=3b1cce39b9d6c9ea4a7c6debf99eab64",
-            "Accept-Encoding": "gzip"
+            "Referer": "https://embed14.streamc.xyz/"
           }
         }
       }
@@ -30,12 +29,6 @@
       "behaviorHints": {
         "notWebReady": true
       }
-    },
-    {
-  "name": "Kênh test MX",
-  "description": "Mở bằng MX Player",
-  "url": "intent://mxplayer/#Intent;scheme=http;package=com.mxtech.videoplayer.pro;S.url=https%3A%2F%2Fvgo.ononemoreokaz.workers.dev%2Fvtv9.m3u8;end"
-}
-
+    }
   ]
 }
