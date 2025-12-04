@@ -32,9 +32,10 @@
       }
     },
     {
-      "url": "intent://play/?url=https%3A%2F%2Fvgo.ononemoreokaz.workers.dev%2Fvtv9.m3u8#Intent;package=com.mxtech.videoplayer.pro;end",
-      "name": "Kênh test mx",
-      "description": "Đây là link User wo"
-    }
+  "name": "Kênh test MX",
+  "description": "Mở bằng MX Player",
+  "url": "intent://mxplayer/#Intent;scheme=http;package=com.mxtech.videoplayer.pro;S.url=https%3A%2F%2Fvgo.ononemoreokaz.workers.dev%2Fvtv9.m3u8;end"
+}
+
   ]
 }
