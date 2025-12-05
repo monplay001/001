@@ -5,6 +5,24 @@
     "name": "Kênh test 1",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png",
     "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png",
-    "description": "Kênh test 1"
+    "description": "Kênh test 1",
+    "streams": [
+      {
+        "url": "https://cmcdp3.vtvdigital.vn/hls/VTV9_HD/index.m3u8",
+        "name": "Kênh test User vtv9 digital",
+        "description": "Đây là link User vtv9",
+        "behaviorHints": {
+          "notWebReady": true
+          }
+        },
+      {
+        "url": "https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist.m3u8",
+        "name": "Kênh test User vtv1 digital",
+        "description": "Đây là link User vtv1",
+        "behaviorHints": {
+          "notWebReady": true
+          }
+        }
+  ]
   }
 }
