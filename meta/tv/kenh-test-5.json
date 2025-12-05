@@ -10,6 +10,7 @@
       {
         "url": "https://cmcdp3.vtvdigital.vn/hls/VTV9_HD/index.m3u8",
         "title": "Kênh test User vtv9 digital",
+        "name": "Kênh test User vtv9 digital"
         "description": "Đây là link User vtv9",
         "behaviorHints": {"notWebReady": true}
       }
