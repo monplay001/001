@@ -6,15 +6,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png",
     "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png",
     "description": "Kênh test 5",
-    "videos": [
-      {
-        "id": "ophim-nguoi-lam-an-lon--0-0",
-        "title": "1 | OP Vietsub #1",
-        "overview": "Người Làm Ăn Lớn Tập 1 Full Vietsub – iQIYI _ iQ.com",
-        "season": 0,
-        "episode": 1,
-        "thumbnail": "https://stremio2.gaixixon.workers.dev/?cache=https%3A%2F%2Fimg.ophim.live%2Fuploads%2Fmovies%2Fnguoi-lam-an-lon-poster.jpg",
-        "streams": [
+    "streams": [
           {
             "name": "1 | Vietsub #1",
             "title": "Người Làm Ăn Lớn Tập 1 Full Vietsub – iQIYI _ iQ.com",
@@ -27,17 +19,7 @@
                 }
               }
             }
-          },
-          {
-            "name": "VTV1",
-            "title": "VTV1",
-            "url": "https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist.m3u8",
-            "behaviorHints": {
-              "notWebReady": true
-            }
           }
         ]
-      }
-    ]
   }
 }
