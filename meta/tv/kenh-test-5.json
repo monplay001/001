@@ -8,8 +8,6 @@
     "description": "Kênh test 5",
     "streams": [
           {
-            "name": "1 | Vietsub #1",
-            "title": "Người Làm Ăn Lớn Tập 1 Full Vietsub – iQIYI _ iQ.com",
             "url": "https://vip.opstream90.com/20251125/18471_4ee91275/index.m3u8",
             "behaviorHints": {
               "notWebReady": true,
