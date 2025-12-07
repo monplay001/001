@@ -6,7 +6,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png",
     "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png",
     "description": "Kênh test 5",
-    "videos":[
+    "videos":[{
       "id": "test-5",
       "title" : "test 5",
     "streams": [
@@ -24,6 +24,7 @@
             }
           }
        ]
+    }
     ]
   }
 }
