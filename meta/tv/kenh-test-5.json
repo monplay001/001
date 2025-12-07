@@ -7,11 +7,15 @@
     "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png",
     "description": "Kênh test 5",
     "videos":[
+      "id": "test-5",
+      "title" : "test 5",
     "streams": [
           {
             "url": "https://vip.opstream90.com/20251125/18471_4ee91275/index.m3u8",
+            "title": "Auto",
             "behaviorHints": {
               "notWebReady": true,
+              "default": true,
               "proxyHeaders": {
                 "request": {
                   "Referer": "https://vip.opstream90.com/"
