@@ -13,15 +13,6 @@
           {
             "url": "https://vip.opstream90.com/20251125/18471_4ee91275/index.m3u8",
             "title": "Auto",
-            "behaviorHints": {
-              "notWebReady": true,
-              "default": true,
-              "proxyHeaders": {
-                "request": {
-                  "Referer": "https://vip.opstream90.com/"
-                }
-              }
-            }
           }
        ]
     }
