@@ -1,34 +1,7 @@
 {
   "streams": [
     {
-      "url": "https://embed14.streamc.xyz/eyJoIjoiM2IxY2NlMzliOWQ2YzllYTRhN2M2ZGViZjk5ZWFiNjQiLCJ0IjoiMTUzYmMzODYyZWJlNWRmNTdiNGUxZGM3NjdkYzA0YjAyNTBlZTU3YWZlNTM3ODU1YzRkOGY3NzU4ZWMxNjA4YyJ9.m3u8",
-      "name": "Kênh test streamc embed1",
-      "description": "Đây là embed",
-      "behaviorHints": {
-        "notWebReady": true,
-        "proxyHeaders": {
-          "request": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
-            "Referer": "https://embed14.streamc.xyz/"
-          }
-        }
-      }
-    },
-    {
-      "url": "https://cmcdp3.vtvdigital.vn/hls/VTV9_HD/index.m3u8",
-      "name": "Kênh test User vtv9 digital",
-      "description": "Đây là link User vtv9",
-      "behaviorHints": {
-        "notWebReady": true
-      }
-    },
-    {
       "url": "https://vgo.ononemoreokaz.workers.dev/vtv9.m3u8",
-      "name": "Kênh test User vtv9 wo",
-      "description": "Đây là link User wo",
-      "behaviorHints": {
-        "notWebReady": true
-      }
     }
   ]
 }
