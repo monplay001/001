@@ -8,7 +8,6 @@
     "description": "Kênh test 5",
     "videos":[{
       "id": "test-5",
-      "name": "Auto",
       "title": "Auto",
       "streams": [
           {
