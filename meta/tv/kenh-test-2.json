@@ -17,17 +17,11 @@
         "episode": 1,
         "streams": [
           {
-            "url": "https://kentestvn.x10.mx/thvli.m3u8",
-            "name": "VTC Sea Games 1",
-            "title": "SEA Games",
+            "url": "https://kentestvn.x10.mx/the-thao-109.m3u8",
+            "name": "the-thao-109",
+            "title": "the-thao-109",
             "behaviorHints": {
-              "notWebReady": true,
-              "proxyHeaders": {
-                "request": {
-                  "User-Agent": "Mozilla/5.0 (SMART-TV; LINUX; Tizen 9.0) AppleWebKit/537.36 (KHTML, like Gecko) 120.0.6099.5/9.0 TV Safari/537.36",
-                  "Referer": "https://www.thvli.vn/"
-                }
-              }
+              "notWebReady": true
             }
           }
         ]
