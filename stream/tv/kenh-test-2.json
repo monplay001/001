@@ -1,26 +1,7 @@
 {
   "streams": [
     {
-      "url": "https://cdn.idoyu.com/?id=14092025_playlist_7d5547d7-005f-46f9-9dd4-e883759f1c4d&s_type=stream",
-      "name": "Kênh test idoyu",
-      "description": "Đây là link test idoyu",
-      "subtitles": [
-        {
-          "id": "sub1",
-          "url": "https://m-center.onflixcdn.pics/content/09112025/66cff3b0-219d-4467-9cab-785edd051c93.vtt",
-          "SubEncoding": "UTF-8",
-          "lang": "vie"
-        }
-      ],
-      "behaviorHints": {
-        "notWebReady": true,
-        "proxyHeaders": {
-          "request": {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
-            "Accept-Encoding": "gzip"
-          }
-        }
-      }
+      "url": "https://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist.m3u8"
     }
   ]
 }
